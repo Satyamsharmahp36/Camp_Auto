@@ -1,0 +1,36 @@
+ID,Brand,ProductName,Category,Price,Stock,Discount,Rating,Condition,Color,Size,Availability,Title,Description,URL
+1,Adidas,Ultraboost 22,Shoes,180,12,15,4.7,New,White,9,InStock,Adidas Ultraboost 22,Comfort running shoes,https://example.com/p/1
+2,Adidas,NMD R1,Shoes,140,18,12,4.4,New,Black,10,InStock,Adidas NMD R1,Urban sneakers,https://example.com/p/2
+3,Adidas,Superstar,Shoes,100,22,5,4.6,New,White,10,InStock,Adidas Superstar,Classic sneakers,https://example.com/p/3
+4,Adidas,Stan Smith,Shoes,90,0,10,4.5,New,White,9,OutOfStock,Adidas Stan Smith,Iconic tennis shoes,https://example.com/p/4
+5,Adidas,Gazelle,Shoes,85,15,8,4.4,New,Blue,10,InStock,Adidas Gazelle,Retro sneakers,https://example.com/p/5
+6,Adidas,Forum Low,Shoes,110,0,12,4.3,New,White,11,OutOfStock,Adidas Forum Low,Basketball heritage,https://example.com/p/6
+7,Adidas,Samba OG,Shoes,100,25,5,4.7,New,Black,10,InStock,Adidas Samba OG,Indoor soccer classic,https://example.com/p/7
+8,Adidas,Ozweego,Shoes,120,8,15,4.2,New,Gray,9,InStock,Adidas Ozweego,Chunky retro runner,https://example.com/p/8
+9,Adidas,ZX 750,Shoes,95,0,10,4.4,New,Navy,10,OutOfStock,Adidas ZX 750,Heritage running,https://example.com/p/9
+10,Adidas,Continental 80,Shoes,80,30,8,4.5,New,White,11,InStock,Adidas Continental 80,80s tennis style,https://example.com/p/10
+11,Adidas,Yeezy Boost 350,Shoes,230,3,0,4.9,New,Cream,10,InStock,Adidas Yeezy 350,Premium lifestyle,https://example.com/p/11
+12,Adidas,4DFWD,Shoes,200,5,20,4.6,New,Black,9,InStock,Adidas 4DFWD,3D printed midsole,https://example.com/p/12
+13,Adidas,Terrex Free Hiker,Shoes,180,0,15,4.7,New,Green,11,OutOfStock,Adidas Terrex,Hiking boots,https://example.com/p/13
+14,Adidas,Adizero Adios Pro,Shoes,250,7,10,4.8,New,Orange,10,InStock,Adidas Adizero,Marathon racing,https://example.com/p/14
+15,Adidas,Predator Edge,Shoes,275,12,5,4.6,New,Red,9,InStock,Adidas Predator,Football boots,https://example.com/p/15
+16,Nike,Air Zoom Pegasus,Shoes,120,25,10,4.5,New,Black,10,InStock,Nike Air Zoom Pegasus,Lightweight running shoes,https://example.com/p/16
+17,Nike,Air Force 1,Shoes,110,30,5,4.6,New,White,11,InStock,Nike Air Force 1,Classic sneakers,https://example.com/p/17
+18,Nike,Metcon 8,Shoes,130,12,10,4.5,New,Black,11,InStock,Nike Metcon 8,Training shoes,https://example.com/p/18
+19,Nike,Air Max 90,Shoes,130,0,12,4.7,New,White,10,OutOfStock,Nike Air Max 90,Iconic air cushion,https://example.com/p/19
+20,Nike,Dunk Low,Shoes,110,20,8,4.6,New,Gray,9,InStock,Nike Dunk Low,Basketball heritage,https://example.com/p/20
+21,Puma,RS-X,Shoes,110,9,8,4.3,New,Blue,9,InStock,Puma RS-X,Sport sneakers,https://example.com/p/21
+22,Puma,Suede Classic,Shoes,75,15,10,4.4,New,Black,10,InStock,Puma Suede,Iconic streetwear,https://example.com/p/22
+23,Reebok,Nano X,Shoes,125,0,12,4.2,New,Gray,10,OutOfStock,Reebok Nano X,Fitness shoes,https://example.com/p/23
+24,Reebok,Classic Leather,Shoes,80,18,8,4.5,New,White,11,InStock,Reebok Classic,Timeless design,https://example.com/p/24
+25,Apple,iPhone 14,Electronics,999,8,5,4.5,New,Black,128GB,InStock,iPhone 14,Latest Apple smartphone,https://example.com/p/25
+26,Samsung,Galaxy S23,Electronics,899,0,12,4.6,New,Blue,128GB,OutOfStock,Galaxy S23,Flagship Samsung phone,https://example.com/p/26
+27,Sony,WH-1000XM5,Electronics,349,20,20,4.7,New,Black,OneSize,InStock,Sony Headphones,Noise cancelling headphones,https://example.com/p/27
+28,Apple,MacBook Air,Laptops,1400,6,7,4.8,New,Silver,13,InStock,MacBook Air,M1 laptop,https://example.com/p/28
+29,Dell,XPS 13,Laptops,1200,10,10,4.6,New,Gray,13,InStock,Dell XPS 13,Compact laptop,https://example.com/p/29
+30,HP,Spectre x360,Laptops,1250,0,12,4.5,New,Black,13,OutOfStock,HP Spectre x360,Convertible laptop,https://example.com/p/30
+31,Sony,PlayStation 5,Gaming,499,0,0,4.9,New,White,Standard,OutOfStock,PS5 Console,Gaming console,https://example.com/p/31
+32,Microsoft,Xbox Series X,Gaming,499,7,5,4.8,New,Black,Standard,InStock,Xbox Series X,Gaming console,https://example.com/p/32
+33,Adidas,Ultraboost Light,Shoes,190,10,10,4.8,New,Black,10,InStock,Adidas Ultraboost Light,Lightest Ultraboost ever,https://example.com/p/33
+34,Adidas,NMD S1,Shoes,160,0,15,4.5,New,White,9,OutOfStock,Adidas NMD S1,Next gen NMD,https://example.com/p/34
+35,Adidas,Campus 00s,Shoes,100,28,5,4.6,New,Green,10,InStock,Adidas Campus 00s,Y2K revival,https://example.com/p/35

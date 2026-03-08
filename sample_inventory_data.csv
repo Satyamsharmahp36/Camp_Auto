@@ -1,0 +1,21 @@
+ID,ProductName,Category,Price,Stock,Discount,Rating,Condition,Color,Size,Availability,Brand,Title,Description,URL
+1,Wireless Bluetooth Headphones,Electronics,79.99,150,10,4.5,New,Black,One Size,In Stock,SoundMax,Premium Wireless Headphones,High-quality wireless headphones with noise cancellation,https://example.com/product/1
+2,Smart Watch Pro,Electronics,199.99,3,15,4.8,New,Silver,Medium,Low Stock,TechGear,Smart Watch Pro Edition,Advanced smartwatch with health monitoring,https://example.com/product/2
+3,Organic Cotton T-Shirt,Apparel,29.99,500,5,4.2,New,White,Large,In Stock,EcoWear,Classic Cotton Tee,100% organic cotton comfortable t-shirt,https://example.com/product/3
+4,Gaming Mouse RGB,Electronics,49.99,2,20,4.7,New,Black,One Size,Low Stock,GamePro,RGB Gaming Mouse,Professional gaming mouse with customizable RGB,https://example.com/product/4
+5,Yoga Mat Premium,Sports,39.99,75,0,4.4,New,Purple,Standard,In Stock,FitLife,Premium Yoga Mat,Non-slip eco-friendly yoga mat,https://example.com/product/5
+6,Coffee Maker Deluxe,Home,89.99,0,25,4.6,New,Stainless,Standard,Out of Stock,BrewMaster,Deluxe Coffee Maker,12-cup programmable coffee maker,https://example.com/product/6
+7,Running Shoes Air,Sports,129.99,45,10,4.3,New,Blue,10,In Stock,SpeedRun,Air Running Shoes,Lightweight running shoes with air cushion,https://example.com/product/7
+8,Laptop Stand Aluminum,Electronics,34.99,1,0,4.1,New,Silver,Adjustable,Low Stock,DeskPro,Aluminum Laptop Stand,Ergonomic adjustable laptop stand,https://example.com/product/8
+9,Protein Powder Vanilla,Health,54.99,200,15,4.5,New,N/A,2lb,In Stock,NutriFit,Vanilla Protein Powder,Premium whey protein powder,https://example.com/product/9
+10,Wireless Charger Pad,Electronics,24.99,4,5,4.0,New,White,Standard,Low Stock,ChargeFast,Fast Wireless Charger,10W fast wireless charging pad,https://example.com/product/10
+11,Denim Jacket Classic,Apparel,79.99,30,0,4.4,New,Blue,Medium,In Stock,UrbanStyle,Classic Denim Jacket,Timeless denim jacket for all seasons,https://example.com/product/11
+12,Bluetooth Speaker Mini,Electronics,39.99,0,10,4.2,New,Red,Compact,Out of Stock,SoundMax,Mini Bluetooth Speaker,Portable waterproof bluetooth speaker,https://example.com/product/12
+13,Resistance Bands Set,Sports,19.99,180,0,4.6,New,Multi,Set of 5,In Stock,FitLife,Resistance Bands Kit,Complete resistance training set,https://example.com/product/13
+14,Stainless Water Bottle,Home,27.99,3,5,4.7,New,Black,32oz,Low Stock,HydroMax,Insulated Water Bottle,Double-wall insulated water bottle,https://example.com/product/14
+15,Mechanical Keyboard,Electronics,89.99,25,15,4.8,New,Black,Full Size,In Stock,GamePro,Mechanical Gaming Keyboard,RGB mechanical keyboard with blue switches,https://example.com/product/15
+16,Face Moisturizer SPF,Beauty,32.99,0,20,4.3,New,N/A,50ml,Out of Stock,GlowSkin,Daily Moisturizer SPF 30,Hydrating moisturizer with sun protection,https://example.com/product/16
+17,Backpack Travel Pro,Bags,69.99,60,10,4.5,New,Gray,40L,In Stock,TravelGear,Pro Travel Backpack,Water-resistant travel backpack with laptop compartment,https://example.com/product/17
+18,Wireless Earbuds Pro,Electronics,149.99,2,0,4.9,New,White,One Size,Low Stock,SoundMax,Pro Wireless Earbuds,Premium earbuds with active noise cancellation,https://example.com/product/18
+19,Dumbbells Set Adjustable,Sports,199.99,15,5,4.4,New,Black,5-25lb,In Stock,FitLife,Adjustable Dumbbells,Space-saving adjustable dumbbell set,https://example.com/product/19
+20,Desk Lamp LED,Home,44.99,1,0,4.2,New,White,Adjustable,Low Stock,BrightHome,LED Desk Lamp,Eye-caring LED desk lamp with USB port,https://example.com/product/20
