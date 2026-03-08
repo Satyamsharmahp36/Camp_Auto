@@ -9,25 +9,11 @@
 [![Groq](https://img.shields.io/badge/Groq-AI-FF6B6B?style=for-the-badge)](https://groq.com/)
 [![Google Apps Script](https://img.shields.io/badge/Apps%20Script-Enabled-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://script.google.com/)
 
-[📺 Watch Demo Video](https://your-demo-video-link.com) • [🐛 Report Bug](https://github.com/your-repo/issues) • [✨ Request Feature](https://github.com/your-repo/issues)
+[📺 Watch Demo Video](https://drive.google.com/file/d/1LxvSOayudh5ZU3vep46E-N1NAmm4u1vl/view?usp=sharing) 
 
 </div>
 
----
 
-## 📋 Table of Contents
-
-- [About](#-about)
-- [Demo](#-demo)
-- [Features](#-features)
-- [Architecture](#-architecture)
-- [Tech Stack](#-tech-stack)
-- [Quick Start](#-quick-start)
-- [Detailed Setup](#-detailed-setup)
-- [Usage Guide](#-usage-guide)
-- [API Reference](#-api-reference)
-- [Limitations](#-limitations)
-- [License](#-license)
 
 ---
 
@@ -46,7 +32,7 @@
 
 <div align="center">
 
-### 📺 [Watch the Full Demo Video](https://your-demo-video-link.com)
+### 📺 [Watch the Full Demo Video](https://drive.google.com/file/d/1LxvSOayudh5ZU3vep46E-N1NAmm4u1vl/view?usp=sharing)
 
 *Click above to see the tool in action!*
 
@@ -309,23 +295,6 @@ Example sheet structure:
 | URL Fetch calls | 20,000/day | Plenty for normal use ✅ |
 | Properties storage | 500KB | ~5,000 rows trackable |
 
-### Known Limitations
-
-- ❌ **Bulk edits** - Pasting 100 rows fires only 1 trigger
-- ❌ **Multi-cell selection** - Only single cell edits work reliably
-- ❌ **ngrok tunnel** - Must stay running (not production-ready)
-- ❌ **No retry logic** - Failed webhooks are lost
-- ❌ **OR conditions** - Only AND logic supported
-
-### Production Recommendations
-
-For production use, consider:
-- Deploy backend to **Vercel**, **Railway**, or **AWS**
-- Replace ngrok with a permanent domain
-- Add webhook retry logic with a queue (Redis/RabbitMQ)
-- Use Google Sheets API for bulk operations
-
----
 
 ## 📁 Project Structure
 
@@ -359,16 +328,29 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 <div align="center">
 
 **Built with ❤️ for Optmyzr**
 
-[⬆ Back to Top](#-optmyzr-event-automation)
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/81843b53-a21a-4425-851b-8b7e08c5117e" />
+
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/5bc14032-a665-402d-90a1-f1caeb2b54cb" />
+
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/1d2c2aa4-efc6-42be-9a5a-043c6caebb1d" />
+
+<img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/15f45994-050d-4fe0-a366-69444722551f" />
+
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/a226e9ee-f07b-4cf4-a451-bf58ea92d4d8" />
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/8e78774c-e1e0-417e-b737-a12dd5a9660c" />
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/745df1b3-48fb-4700-9561-01d314370620" />
+
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/b8fb2d0f-7f1c-458b-ad3f-035b70778e91" />
+
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/40508da1-554a-488c-9f33-a443d3362072" />
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/dbb82aab-e061-4cf2-a8e4-7cc944e816ef" />
+
 
 </div>
